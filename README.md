@@ -1,7 +1,7 @@
 # bing-ads-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Bing Ads
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Bing Ads (beta)](https://www.cdata.com/download/download.aspx?sku=EZZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Bing Ads (beta)](https://www.cdata.com/download/download.aspx?sku=EZZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Bing Ads supported by the [CData JDBC Driver for Bing Ads](https://www.cdata.com/drivers/bingads/jdbc).
 
